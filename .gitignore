@@ -1,0 +1,88 @@
+# =====================
+# Python
+# =====================
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# uv / pip tools
+uv.lock
+.pip-cache/
+
+# =====================
+# Jupyter
+# =====================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# =====================
+# IDE
+# =====================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =====================
+# OS files
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# ML / AI artifacts
+# =====================
+
+# Models / checkpoints
+# *.pt
+# *.pth
+# *.ckpt
+# *.h5
+# *.onnx
+# *.pkl
+# *.joblib
+
+# Large datasets
+data/
+datasets/
+*.csv
+*.parquet
+*.arrow
+
+# Logs
+logs/
+*.log
+wandb/
+mlruns/
+tensorboard_logs/
+
+# HuggingFace
+.cache/
+huggingface/
+models/
+
+# =====================
+# GPU / CUDA artifacts
+# =====================
+*.cuobj
+*.cubin
+*.ptx
+
+# =====================
+# Experiment outputs
+# =====================
+outputs/
+results/
+runs/
+checkpoints/
