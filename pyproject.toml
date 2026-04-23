@@ -13,6 +13,12 @@ dependencies = [
     "ipykernel",
     "tqdm>=4.67.3",
     "scikit-learn>=1.8.0",
+    "optuna>=4.8.0",
+    "lightning>=2.6.1",
+    "litlogger>=2026.4.16",
+    "optuna-integration>=4.8.0",
+    "tensorboard>=2.20.0",
+    "tensorboardx>=2.6.5",
 ]
 
 
