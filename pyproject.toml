@@ -19,6 +19,8 @@ dependencies = [
     "optuna-integration>=4.8.0",
     "tensorboard>=2.20.0",
     "tensorboardx>=2.6.5",
+    "plotly>=6.7.0",
+    "nbformat>=4.2.0",
 ]
 
 
