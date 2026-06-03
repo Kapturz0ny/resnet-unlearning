@@ -16,14 +16,14 @@
             "scs": 1.28
         },
         "SalUn_fixed_known": {
-            "clean_acc": 69.05,
-            "asr": 8.75,
-            "scs": 1.89
+            "clean_acc": 67.41,
+            "asr": 7.52,
+            "scs": 2.22
         },
         "SalUn_fixed_unknown": {
-            "clean_acc": 68.33,
-            "asr": 13.23,
-            "scs": 6.92
+            "clean_acc": 65.95,
+            "asr": 10.38,
+            "scs": 3.55
         },
         "SalUn_random_unknown": {
             "clean_acc": 69.98,
