@@ -14,6 +14,21 @@
             "clean_acc": 70.6,
             "asr": 4.4,
             "scs": 1.28
+        },
+        "SalUn_fixed_known": {
+            "clean_acc": 69.05,
+            "asr": 8.75,
+            "scs": 1.89
+        },
+        "SalUn_fixed_unknown": {
+            "clean_acc": 68.33,
+            "asr": 13.23,
+            "scs": 6.92
+        },
+        "SalUn_random_unknown": {
+            "clean_acc": 69.98,
+            "asr": 8.31,
+            "scs": 1.43
         }
     },
     "convnext": {
@@ -31,6 +46,21 @@
             "clean_acc": 63.87,
             "asr": 6.74,
             "scs": 2.08
+        },
+        "SalUn_random_unknown": {
+            "clean_acc": 64.27,
+            "asr": 19.46,
+            "scs": 10.05
+        },
+        "SalUn_fixed_unknown": {
+            "clean_acc": 66.67,
+            "asr": 16.88,
+            "scs": 10.09
+        },
+        "SalUn_fixed_known": {
+            "clean_acc": 54.88,
+            "asr": 18.63,
+            "scs": 9.42
         }
     }
 }
