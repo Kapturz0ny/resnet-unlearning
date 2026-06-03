@@ -1,0 +1,36 @@
+{
+    "resnet18": {
+        "TBAR_fixed_known": {
+            "clean_acc": 73.95,
+            "asr": 12.57,
+            "scs": 5.95
+        },
+        "TBAR_fixed_unknown": {
+            "clean_acc": 64.99,
+            "asr": 20.65,
+            "scs": 13.31
+        },
+        "TBAR_random_unknown": {
+            "clean_acc": 70.6,
+            "asr": 4.4,
+            "scs": 1.28
+        }
+    },
+    "convnext": {
+        "TBAR_fixed_known": {
+            "clean_acc": 62.27,
+            "asr": 14.0,
+            "scs": 7.22
+        },
+        "TBAR_fixed_unknown": {
+            "clean_acc": 62.91,
+            "asr": 30.18,
+            "scs": 22.23
+        },
+        "TBAR_random_unknown": {
+            "clean_acc": 63.87,
+            "asr": 6.74,
+            "scs": 2.08
+        }
+    }
+}
